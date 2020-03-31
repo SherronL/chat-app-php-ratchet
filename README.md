@@ -6,7 +6,8 @@ You need to install the following first:
 * bootstrap
 
 If using XAMPP then it's plug and play:
-* make sure the project is in the xampp/htdocs/ folder:
+* make sure the project is in the xampp/htdocs/ folder
+* make sure the library folder is in the project when installing dependencies 
 * Start Apache and MySQL
 * Start server in terminal by running "php server.php"
 * Then go to http://localhost/chat-app-php-ratchet
