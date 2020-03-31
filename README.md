@@ -1,9 +1,9 @@
 # chat-app-php-ratchet
 
 You need to install the following first:
-composer
-jquery
-bootstrap
+* composer
+* jquery
+* bootstrap
 
 If using XAMPP then it's plug and play:
 * make sure the project is in the xampp/htdocs/ folder:
